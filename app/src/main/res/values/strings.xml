@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+    <string name="status">Status: showing the currently played song. And maybe adding some control buttons to pause/start playing.</string>
+    <string name="playlist">Playlist</string>
+    <string name="library">Library</string>
+    <string name="songdetail">Song Details</string>
+    <string name="explain_main">On this screen: This is the main screen of the app, at the top there is a statusbar showing the currently played song, there are buttons to navigate to other screens, and this explanation at the bottom.</string>
+    <string name="title_activity_playlist">PlayListActivity</string>
+    <string name="title_activity_library">LibraryActivity</string>
+    <string name="title_activity_songdetail">SongDetailsActivity</string>
+    <string name="artist">Artist</string>
+    <string name="title">Title</string>
+    <string name="album">Album</string>
+    <string name="year">Year</string>
+    <string name="explain_playlist">On this screen: This screen shows the list of the songs are currently on the playlist. With the buttons we can jump to the details screen or remove the song from the list.</string>
+    <string name="remove">Remove</string>
+    <string name="remove_song">Removing the song from the playlist..</string>
+    <string name="explain_library">On this screen: This screen shows the list of the songs currently available to the app. With the buttons we can jump to the details screen or add the song to the playlist.</string>
+    <string name="add">Add</string>
+    <string name="add_song">Adding the song to the playlist..</string>
+    <string name="explain_songdetail">On this screen: This screen shows the details of the selected song. From the main screen it will show the details of the currently played song, otherwise the details of the song from the playlist or library. Tapping on the image will bring back to the main screen.</string>
+</resources>
